@@ -1,0 +1,177 @@
+
+{
+
+            "application/octet-stream" : ".a",
+            "application/postscript" :  ".ai",
+            "audio/vnd.wave" : ".wav",
+            "audio/x-wav "   :     ".wav",
+           " audio/basic"	 :   ".au",
+            "audio/x-aiff"   :    ".aiff",
+            "video/x-msvideo" :  ".avi" ,
+           "application/x-bcpio"  : ".bcpio",
+            "audio/x-flac"	   :  ".flac",
+            "application/x-midi"  :   ".mid" ,
+            "audio/midi"       :      ".mid",
+            "audio/mpeg"	  :  ".mp3",
+            "video/x-m4v"     :     ".m4v",
+            "application/mp4" :   ".mp4",
+            "video/3gpp"      :   ".3gp",
+            "video/3gpp2"     :   ".3g2",
+             "video/quicktime": ".qt",
+            "audio/mp4"       :   ".mp4",
+            "video/mp4"       :   ".mp4",
+            "audio/opus"	:	".opus",
+            "audio/ogg" :   ".oga",
+             "text/css" : ".css",
+            "text/csv"  : ".csv",
+            "application/javascript"  :  ".js" ,
+            "application/json"  :  ".json" ,
+            "audio/speex"  :	 ".spx" ,
+            "audio/vorbis"     :    ".vorbis" ,
+            "image/vnd.dwg"      :      ".dwg",
+            "application/applefile"  :  ".apple",
+            "application/x-gzip"  :   ".gz",
+            "application/x-bzip2"   :  ".bz2",
+            "application/x-compress"   :   ".z",
+            "application/x-java-pack200"  : ".pack",
+            "application/x-lzma"   :        ".lzma",
+            "application/x-lz4"	 : ".lz4",
+            "application/x-snappy"   :   ".sz",
+            "application/x-brotli"   :   ".br",
+            "application/gzip"       :   ".gz",
+            "application/x-bzip"     :   ".bz",
+            "application/x-xz"       :    ".xz",
+            "application/x-tar"      :    ".tar",
+            "application/java-archive"  :  ".jar",
+            "application/x-arj"         :   ".arj",
+            "application/x-archive"     :  ".ar",
+            "application/zip"           :    ".zip",
+            "application/x-cpio"        :    ".cpio",
+            "application/x-7z-compressed" :  ".7z",
+            "application/x-rar-compressed"      :		 ".rar",
+            "application/x-dbf"		:	".dbf",
+            "application/x-msaccess"		:	".mdb",
+            "application/mbox"              :                       ".mbox",
+            "application/vnd.ms-outlook-pst"	:		     ".pst",
+            "message/rfc822" 		        :                      ".eml",
+            "application/ms-tnef"			:	".tnef",
+            "text/html"          :               ".html",
+            "application/vnd.wap.xhtml+xml"  : ".xhtml",
+            "application/x-asp"		:  ".asp",
+            "application/xhtml+xml"	:	".xhtml",
+            "image/bpg" 		:	".bpg",
+            "image/emf"		:	".emf",
+            "image/icns"	:		".icns",
+            "image/png"             :		".png",
+            "image/vnd.wap.wbmp"	:	".wbmp",
+            "image/x-jbig2"		:	".jbig2",
+            "image/bmp"		:	".bmp",
+            "image/x-xcf"		:	".xcf",
+            "image/gif"		:	".gif",
+            "image/x-icon"		:	".ico",
+            "image/x-ms-bmp"	:		".bmp",
+            "image/jpeg"		:	".jpg",
+            "image/vnd.adobe.photoshop"     :  ".psd",
+            "image/tiff"		: ".tiff",
+            "image/webp"		:	".webp",
+            "image/wmf"		:	".wmf",
+            "application/vnd.apple.keynote"  : ".key",
+            "application/vnd.apple.numbers"  : ".numbers",
+            "application/vnd.apple.pages"    : ".pages",
+            "application/msword"			:				".doc",
+            "application/vnd.visio"				:			".vsd",
+            "application/vnd.ms-project"	:					".mpp",
+            "application/x-mspublisher"			:			".pub",
+            "application/vnd.ms-powerpoint"		:			  	".pwz",
+            "application/vnd.ms-excel"			:			".xls",
+            "application/vnd.ms-outlook"		:				".msg",
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.template"		:	".dotx",
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"       :          ".docx",
+            "application/vnd.ms-visio.drawing"			:				".vsdx",
+            "application/vnd.openxmlformats-officedocument.presentationml.slide"	:		".sldx",
+            "application/vnd.openxmlformats-officedocument.spreadsheetml.template"	:		".xltx",
+            "application/vnd.ms-xpsdocument"				:				".xps",
+            "model/vnd.dwfx+xps"				:					".dwfx",
+            "application/vnd.openxmlformats-officedocument.presentationml.template"		:	".potx",
+            "application/vnd.openxmlformats-officedocument.presentationml.presentation"	:	".pptx",
+            "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"		:	".xlsx",
+            "application/vnd.ms-visio.stencil"				:			".vssx",
+            "application/vnd.ms-visio.template"					:		".vstx",
+            "application/vnd.openxmlformats-officedocument.presentationml.slideshow"	:		".ppsx",
+            "application/vnd.oasis.opendocument.chart"		:		".odc",
+            "application/vnd.oasis.opendocument.graphics-template"	:		".otg",
+            "application/vnd.oasis.opendocument.text-web"	:			".oth",
+            "application/vnd.oasis.opendocument.spreadsheet-template"		:	".ots",
+            "application/vnd.sun.xml.writer"				:		".sxw",
+            "application/vnd.oasis.opendocument.graphics"		:		".odg",
+            "application/vnd.oasis.opendocument.spreadsheet"	:			".ods",
+            "application/vnd.oasis.opendocument.image"		:		".odi",
+            "application/vnd.oasis.opendocument.presentation-template"	:	".otp",
+            "application/vnd.oasis.opendocument.text"		:			".odt",
+            "application/vnd.oasis.opendocument.text-template"	:		".ott",
+            "application/vnd.oasis.opendocument.presentation"	:			".odp",
+            "application/vnd.oasis.opendocument.formula"		:	".odf",
+            "application/vnd.oasis.opendocument.text-master"	:		".odm",
+            "application/pdf"	:	".pdf",
+            "application/rtf"	:	".rtf",
+            "text/plain"			:		".txt",
+            "application/vnd.wordperfect"	:		".wpd",
+            "video/x-flv"		:			".flv",
+            "audio/ogg"			:	".oga",
+            "application/ogg"		:		".ogx",
+            "video/ogg"			:	".ogv",
+            "text/xml"   : ".xml"
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
